@@ -29,13 +29,14 @@
 * [SRE Interview Questions](https://syedali.net/engineer-interview-questions/)
 
 #### Project Management
-[AirTable](https://www.airtable.com/)
-[Jira](https://www.atlassian.com/software/jira)
-[Asana](https://asana.com/)
-[Trello](https://trello.com/)
+* [AirTable](https://www.airtable.com/)
+* [Jira](https://www.atlassian.com/software/jira)
+* [Asana](https://asana.com/)
+* [Trello](https://trello.com/)
 
 
 ![Clean up](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/11/fa1eda41767146340b2f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230106T001002Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b9a34be69ed2d8aeff599ed36ec7150f5e6bf0532c37daf05f8b48742c304516)
+
 
 ### Let’s Clean Up
 
