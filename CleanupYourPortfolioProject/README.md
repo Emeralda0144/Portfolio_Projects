@@ -1,0 +1,105 @@
+# Cleanup your Portfolio Project
+
+#### Concepts
+*For this project, we expect you to look at this concept:*
+* [Job Search Resources](https://intranet.alxswe.com/concepts/100)
+## Job Search Resources
+
+#### ReadMe [Regardless of Goals]
+[Reality of Job Searching](https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) *we have a few copies of this in the library for you (^.^)*
+[Ace the Coding Interview, Every Time](https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc)
+
+#### Fullstack / Backend
+[Get that Job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+
+#### Coding Tools
+[The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+[Top 100 Interview Questions via Leetcode](https://leetcode.com/problemset/top-interview-questions/)
+
+#### Front End Specific
+[Cracking the Front-end Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237)
+[Front-End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+[A Very Comprehensive Guide to Front-End Interview Prep](https://frontendmasters.com/guides/front-end-handbook/2017/practice/interview-q.html?)
+
+#### SRE specific
+* [SRE Interview Prep Stuff.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/700ce252c5781ca75bfe0cb372abc829cec80730.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230106T004627Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7a19d2cc51c52e424c908ef19046599798648f62818efec105c3cc40d5db92cc) (shhh, remember to keep it solely in the HBTN fam)
+* [Guide to Getting into SRE](https://tammybutow.medium.com/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b) by [Tammy Butow](https://twitter.com/tammybutow)
+* [SRE Interview Questions](https://syedali.net/engineer-interview-questions/)
+
+#### Project Management
+[AirTable](https://www.airtable.com/)
+[Jira](https://www.atlassian.com/software/jira)
+[Asana](https://asana.com/)
+[Trello](https://trello.com/)
+
+
+![Clean up](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/11/fa1eda41767146340b2f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230106T001002Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b9a34be69ed2d8aeff599ed36ec7150f5e6bf0532c37daf05f8b48742c304516)
+
+### Let’s Clean Up
+
+Of all the things that a potential employer looks at, code is the most important. It is after all, what they are hiring you to do. Also remember, Recruiters and Hiring Managers are busy people. Here is a real-world scenario that may help you understand how important your GitHub is to eventual job placement.
+
+### Top of the Resumé Pile at DreamCo
+
+Imagine this… You’re at a meetup and a friendly recruiter from DreamCo strikes up a conversation with you. He says there’s a software engineering position opening up in a few weeks and it would be great to keep in touch. You let him know you’ll follow up and send him a resume. That night you do a ton of research about DreamCo and tailor your resumé and email followup for the position. You get your resumé reviewed, iterate, and by the end of next day you confidently send him your latest draft. The Recruiter replies immediately – you’re a strong fit for the role.
+
+Your resume is going to the top of the pile he will pass to the Hiring Manager. The Hiring Manager (your potential manager) receives a stack of 20 resumes (filtered down from the 2000 received), and she thinks you are a great candidate. She would love to speak with you. Right before she emails the recruiter to reach out to you, she finds your GitHub profile.
+
+She randomly selects some projects and pokes around. She sees a checkin comment, “one more fix before bed” and thinks it’s not particularly professional, but at least it demonstrates diligence. She opens a random file and there are hardcoded strings being passed between functions to manage state. “That’s pretty poor coding hygiene, but style and standards can be taught. Maybe this is a one-off, ” the Manager thinks. Finally she finds a file where there is some more complex logic. Variables are poorly named, some functionality could have clearly been refactored, and one function named “addThemAllUp” spans 2 screens with 5 while loops and no comments to explain! She then flips to the next resumé on the stack.
+
+## More Info
+
+### **Manual QA Review**
+**It is your responsibility to request a review for your code from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
+
+## Tasks
+0. Comment all your code
+Go through and add comments to your code. The more, the better. If you’ve already done this, great! You have nothing more to do.
+
+If you’re unclear about the standards for comments, look up what is expected. Here’s an [example from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-python-3) detailing the standard commenting practices for Python 3.
+
+Provide a link to your Portfolio Project’s github URL
+
+#### Add URLs here:
+
+1. Clean up those commit messages
+Look through the history of your commits and view them from the perspective of a potential employer. Would you hire yourself? Are your commit messages clear and informative? Is there a way to edit a commit message on GitHub?
+
+2. (Re)Organize your files
+Clean up and remove any files that serve no purpose. This includes temp files, unused libraries, pycache, etc.
+
+3. Refactor and Simplify
+Are your functions/classes too big? Do they have too many responsibilities? Take time to refactor anything that may be unmanageable.
+
+4. Spruce up variable names
+One letter variables for anything besides temporary counters are unhelpful. Take the time to go through and update variable names to conform to convention and be descriptive.
+
+5. Complete your README.md
+The required task here is to improve your `README.md` to be complete. It should contain all standard aspects of a traditional `README.md` including:
+
+* Project Name
+* Introduction
+	* Must include link to your deployed site, final project blog article, author(s) LinkedIn
+* Installation
+* Usage
+* Contributing
+* Related projects
+* Licensing
+
+A couple resources: * [What your code repository says about you](https://opensource.com/open-organization/17/1/repo-tells-a-story) * Here’s an [awesome list of READMEs](https://github.com/matiassingers/awesome-readme).
+
+At least one screenshot of your app must be included.
+
+6. Optional: Include much more technical detail and incorporate your story into your `README.md`
+Your portfolio project will **not** be the most technically impressive application that a recruiter or hiring manager sees. Bring context to the application by sharing your inspiration for creating this, or express the technical challenge you set out to solve. Be honest where you struggled and what you envision for a next-iteration. Add the emotion, the timeline, and a reminder of the human behind the keyboard so that your project is seen through the lens of “Wow, I’d like to work with a human who thinks like this!”
+
+Pull from all your planning materials, your blog post, and project screenshots to create a `README.md` that stands out and tells the story of this project. This is a wonderful place to go into more technical depth than you did in your blog post. Really explain the details of the algorithm you chose, or the details of why you chose a specific solution. Add visuals (gifs, screenshots, emoji!) to bring the file to life!
+
+Here are some examples of `README.md`‘s that tell a great story:
+
+* [DeepFakes](https://github.com/deepfakes/faceswap)
+* [WikiGraph](https://github.com/erabug/wikigraph)
+* [Job Odyssey](https://github.com/christopherchoe/jobodyssey_hbtn)
+* [ideadog](https://github.com/bdbaraban/ideadog)
