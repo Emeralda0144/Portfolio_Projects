@@ -1,5 +1,7 @@
 # Portfolio Project Blog post
 
+![Happy New Year](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/11/cc88d6531c448e2b71d4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230105T234117Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fb9862ec588c44522f389fb0bdbf04363d26a48a8d1b073dd0c9014dc9645c44)
+
 You’ve done it! You’re on the other side of your final project. There’s just a few finishing touches before we complete the year.
 
 For this project, write a blog post about your portfolio project to capture all the trials and learnings you’ve encountered along the way. Everything you struggled with, and everything you’ve accomplished needs to be written down now before you forget! Capturing these details make a world of difference when it comes time to present your project to employers. Especially if you choose to continue with a Specialization for Year 2, it will be imperative that you can easily recall the details of this project and explain them expertly.
