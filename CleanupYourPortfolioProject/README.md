@@ -56,7 +56,9 @@ She randomly selects some projects and pokes around. She sees a checkin comment,
 **It is your responsibility to request a review for your code from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
 
 ## Tasks
-0. Comment all your code
+
+#### 0. Comment all your code
+
 Go through and add comments to your code. The more, the better. If you’ve already done this, great! You have nothing more to do.
 
 If you’re unclear about the standards for comments, look up what is expected. Here’s an [example from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-python-3) detailing the standard commenting practices for Python 3.
@@ -65,19 +67,24 @@ Provide a link to your Portfolio Project’s github URL
 
 #### Add URLs here:
 
-1. Clean up those commit messages
+#### 1. Clean up those commit messages
+
 Look through the history of your commits and view them from the perspective of a potential employer. Would you hire yourself? Are your commit messages clear and informative? Is there a way to edit a commit message on GitHub?
 
-2. (Re)Organize your files
+#### 2. (Re)Organize your files
+
 Clean up and remove any files that serve no purpose. This includes temp files, unused libraries, pycache, etc.
 
-3. Refactor and Simplify
+#### 3. Refactor and Simplify
+
 Are your functions/classes too big? Do they have too many responsibilities? Take time to refactor anything that may be unmanageable.
 
-4. Spruce up variable names
+#### 4. Spruce up variable names
+
 One letter variables for anything besides temporary counters are unhelpful. Take the time to go through and update variable names to conform to convention and be descriptive.
 
-5. Complete your README.md
+#### 5. Complete your README.md
+
 The required task here is to improve your `README.md` to be complete. It should contain all standard aspects of a traditional `README.md` including:
 
 * Project Name
@@ -93,7 +100,8 @@ A couple resources: * [What your code repository says about you](https://opensou
 
 At least one screenshot of your app must be included.
 
-6. Optional: Include much more technical detail and incorporate your story into your `README.md`
+#### 6. Optional: Include much more technical detail and incorporate your story into your `README.md`
+
 Your portfolio project will **not** be the most technically impressive application that a recruiter or hiring manager sees. Bring context to the application by sharing your inspiration for creating this, or express the technical challenge you set out to solve. Be honest where you struggled and what you envision for a next-iteration. Add the emotion, the timeline, and a reminder of the human behind the keyboard so that your project is seen through the lens of “Wow, I’d like to work with a human who thinks like this!”
 
 Pull from all your planning materials, your blog post, and project screenshots to create a `README.md` that stands out and tells the story of this project. This is a wonderful place to go into more technical depth than you did in your blog post. Really explain the details of the algorithm you chose, or the details of why you chose a specific solution. Add visuals (gifs, screenshots, emoji!) to bring the file to life!
